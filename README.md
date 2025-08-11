@@ -6,6 +6,6 @@ pip install pydantic-ai python-dotenv
 
 set environment variable GEMINI_API_KEY="....."
 
-python browser_agent.pys
+python browser_agent.py
 
 ```
